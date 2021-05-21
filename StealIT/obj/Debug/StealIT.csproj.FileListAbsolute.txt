@@ -1,0 +1,36 @@
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\StealIT.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\StealIT.exe
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\StealIT.pdb
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.csproj.GenerateResource.cache
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.csproj.CoreCompileInputs.cache
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.csproj.CopyComplete
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.exe
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.pdb
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\StealIT.exe.manifest
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\StealIT.application
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.exe.manifest
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\obj\Debug\StealIT.application
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\Newtonsoft.Json.dll
+c:\users\alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\Dropbox.Api.dll
+C:\Users\Alex\documents\visual studio 2017\Projects\StealIT\StealIT\bin\Debug\Dropbox.Api.xml
+F:\Projects\StealIT\StealIT\bin\Debug\StealIT.exe.config
+F:\Projects\StealIT\StealIT\bin\Debug\StealIT.exe.manifest
+F:\Projects\StealIT\StealIT\bin\Debug\StealIT.application
+F:\Projects\StealIT\StealIT\bin\Debug\StealIT.exe
+F:\Projects\StealIT\StealIT\bin\Debug\StealIT.pdb
+F:\Projects\StealIT\StealIT\bin\Debug\Dropbox.Api.dll
+F:\Projects\StealIT\StealIT\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\StealIT\StealIT\bin\Debug\Dropbox.Api.xml
+F:\Projects\StealIT\StealIT\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.Properties.Resources.resources
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.csproj.GenerateResource.cache
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.csproj.CoreCompileInputs.cache
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.exe.manifest
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.application
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.csproj.CopyComplete
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.exe
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.pdb
+F:\Projects\StealIT\StealIT\obj\Debug\StealIT.csprojAssemblyReference.cache
